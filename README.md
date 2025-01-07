@@ -5,7 +5,7 @@ Built using the latest web technologies, Kabras Enterprise combines robust funct
 Technologies Used<br>
 Kabras Enterprise leverages a variety of cutting-edge tools and libraries, including:<br>
 
-HTML5: For semantic and accessible markup.<b>
+HTML5: For semantic and accessible markup.<br>
 CSS3: To create visually appealing and responsive designs.<br>
 JavaScript ES6: For dynamic functionality and modern JavaScript features.<br>
 React JS: The backbone of the user interface, ensuring modular and efficient components.<br>

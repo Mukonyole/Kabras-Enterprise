@@ -1,0 +1,68 @@
+{ 
+  "laptop1": {
+    "name": "HP Elitebook 650 G10 15.6",
+    "img": "https://m.media-amazon.com/images/I/61j92LBE9KL._AC_SX425_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61j92LBE9KL._AC_SX425_.jpg",
+    "price": 1200
+  },
+  "laptop2": {
+    "name": "ASUS : 2023 Vivobook 17X Laptop",
+    "img": "https://m.media-amazon.com/images/I/71gLz5gSDjL._AC_UY218_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71gLz5gSDjL._AC_UY218_.jpg",
+    "price": 1000
+  },
+   "laptop3": {
+    "name": "HP Elitebook 660 G11 16",
+    "img": "https://m.media-amazon.com/images/I/71EPfXnafGL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71EPfXnafGL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 1250
+  },
+  "laptop4": {
+    "name": "Lenovo ThinkBook 16 G6 16",
+    "img2": "https://m.media-amazon.com/images/I/81dDVDtwlvL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "img": "https://m.media-amazon.com/images/I/81dDVDtwlvL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 1150
+  },
+  "printer1": {
+    "name": "HP OfficeJet Pro 9135e All-in-One Printer",
+    "img": "https://m.media-amazon.com/images/I/61ynr8Smk+L._AC_SY300_SX300_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/61ynr8Smk+L._AC_SY300_SX300_.jpg",
+    "price": 400
+  },
+  "printer2": {
+    "name": "HP 58X Black High-yield Toner Cartridge",
+    "img2": "https://m.media-amazon.com/images/I/711-hEL7EcL._AC_SX569_.jpg",
+    "img": "https://m.media-amazon.com/images/I/711-hEL7EcL._AC_SX569_.jpg",
+    "price": 300
+  },
+  "card1": {
+    "name": "SanDisk 2TB Extreme microSDXC UHS-I Memory Card with Adapter",
+    "img": "https://m.media-amazon.com/images/I/71ENEUtLFtL._AC_SX425_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71ENEUtLFtL._AC_SX425_.jpg",
+    "price": 250
+  },
+  "laptop5": {
+    "name": "Apple MacBook Air 13.6 with Liquid Retina Display",
+    "img2": "https://m.media-amazon.com/images/I/611zv2cWnTL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "img": "https://m.media-amazon.com/images/I/611zv2cWnTL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 1600
+  },
+  "laptop6": {
+    "name": "Oemgenuine 2024 Dell Latitude 3550 Notebook 15.6” FHD",
+    "img": "https://m.media-amazon.com/images/I/71GPPXZsaML.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "img2": "https://m.media-amazon.com/images/I/71GPPXZsaML.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 1000
+  },
+  "laptop7": {
+    "name": "Innoview 23.8” 4K Portable Monitor",
+    "img2": "https://m.media-amazon.com/images/I/718hjyQT6dL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "img": "https://m.media-amazon.com/images/I/718hjyQT6dL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 370
+  },
+  "laptop8": {
+    "name": "Laptop Screen Extender, 14 FHD 1080P Laptop Monitor Extender",
+    "img2": "https://m.media-amazon.com/images/I/71t6wn0UyGL._AC_SX425_.jpg",
+    "img": "https://m.media-amazon.com/images/I/71t6wn0UyGL._AC_SX425_.jpg",
+    "price": 370
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "laptop1": {
+    "name": "HP Elitebook 650 G10 15.6",
+    "img": "https://m.media-amazon.com/images/I/61j92LBE9KL._AC_SX425_.jpg",
+    "price": 1200
+  },
+  "laptop2": {
+    "name": "ASUS : 2023 Vivobook 17X Laptop",
+    "img": "https://m.media-amazon.com/images/I/71gLz5gSDjL._AC_UY218_.jpg",
+    "price": 1000
+  },
+  "laptop3": {
+    "name": "HP Elitebook 660 G11 16",
+    "img": "https://m.media-amazon.com/images/I/71EPfXnafGL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 1250
+  },
+  "laptop4": {
+    "name": "Lenovo ThinkBook 16 G6 16",
+    "img": "https://m.media-amazon.com/images/I/81dDVDtwlvL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 1150
+  }
+}

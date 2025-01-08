@@ -30,7 +30,7 @@ function Product() {
               <h2 className="lap-price"> ${price} </h2>
               <Link key={id} to={`/product/${id}`}>
                 <img
-                  className="products-shoe-image"
+                  className="products-lap-image"
                   title={title}
                   alt={title}
                   src={imageUrl}
@@ -53,9 +53,9 @@ function Product() {
           );
         })}
 
-        {/* {Object.keys(Shoes).map((keyName, idx) => {
-          const shoe = Shoes[keyName];
-          return <Shoe shoe={shoe} key={idx} keyName={keyName} idx={idx} />;
+        {/* {Object.keys(Laptops).map((keyName, idx) => {
+          const lap = Laptops[keyName];
+          return <Lap lap={lap} key={idx} keyName={keyName} idx={idx} />;
         })} */}
       </div>
       <div className="page-wrapper"></div>

@@ -1,5 +1,5 @@
 import React from "react";
-import Shoes from "../../latestLaptops.json";
+import Laps from "../../latestLaptops.json";
 
 function Home() {
   return (
@@ -14,7 +14,6 @@ function Home() {
 
         <br />
         <br />
-        <br />
         <div className="latest-container">
           <hr className="line" /> &nbsp; &nbsp;
           <span className="latest-laptops">Latest Laptops</span>&nbsp;&nbsp;
@@ -22,17 +21,17 @@ function Home() {
           <br />
           <br />
           <div className="product-container image-gallery">
-            {Object.keys(Shoes).map((keyName) => {
-              const shoe = Shoes[keyName];
+            {Object.keys(Laps).map((keyName) => {
+              const lap = Laps[keyName];
               return (
                 <div className="home-products" key={keyName}>
                   <img
-                    className="products-shoe-image"
-                    alt={shoe.name}
-                    src={shoe.img}
+                    className="products-lap-image"
+                    alt={lap.name}
+                    src={lap.img}
                   />
-                  <h3 className="shoe-name">{shoe.name}</h3>
-                  <h3 className="shoe-price">${shoe.price}</h3>
+                  <h3 className="lap-name">{lap.name}</h3>
+                  <h3 className="lap-price">${lap.price}</h3>
                 </div>
               );
             })}

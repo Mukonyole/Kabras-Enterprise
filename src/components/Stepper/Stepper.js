@@ -6,7 +6,7 @@ import Typography from "@material-ui/core/Typography";
 import PersonalInfoForm from "./forms/PersonalInfoForm";
 import AddressForm from "./forms/AddressForm";
 import PlaceOrderForm from "./forms/PlaceOrderForm";
-import "./stepper.css";
+import "./Stepper.css";
 import PlaceOrder from "../PlaceOrder/PlaceOrder";
 import { useHistory } from "react-router-dom";
 
